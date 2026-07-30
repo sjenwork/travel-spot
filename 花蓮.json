@@ -1,0 +1,444 @@
+{
+"schemaVersion": "1.1",
+"kind": "place-card-list",
+"title": "花蓮旅遊景點清單",
+"description": "整理自 Qbisat 網站花蓮縣景點列表之代表性自然與休閒景點。",
+"publisher": {
+"name": "使用者與外部 LLM 整理",
+"url": null
+},
+"license": null,
+"cards": [
+{
+"externalId": "taroko-national-park",
+"name": "太魯閣國家公園",
+"category": "自然景點",
+"tags": [
+"峽谷",
+"世界級景點",
+"步道"
+],
+"description": "擁有世界級的大理岩峽谷景觀與立霧溪鬼斧神工的峭壁，並結合太魯閣族文化。",
+"location": {
+"address": "花蓮縣秀林鄉富世村富世291號",
+"coordinates": null,
+"originalText": "太魯閣國家公園",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 240,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"網頁中列出太魯閣國家公園等花蓮縣自然景觀與地標。"
+]
+}
+]
+},
+{
+"externalId": "qingshui-cliff",
+"name": "清水斷崖",
+"category": "自然景點",
+"tags": [
+"斷崖",
+"太平洋",
+"觀海"
+],
+"description": "垂直聳立於太平洋之上的宏偉斷崖，是蘇花公路沿線最震撼的自然奇觀。",
+"location": {
+"address": "花蓮縣秀林鄉蘇花公路",
+"coordinates": null,
+"originalText": "清水斷崖",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 60,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"網頁中介紹清水斷崖為蘇花公路沿線奇觀。"
+]
+}
+]
+},
+{
+"externalId": "qixingtan",
+"name": "七星潭風景區",
+"category": "自然景點",
+"tags": [
+"海灣",
+"賞星",
+"自行車"
+],
+"description": "花蓮最具代表性的新月形礫石海灣，擁有潔淨的海水與圓潤的黑石。",
+"location": {
+"address": "花蓮縣新城鄉七星街",
+"coordinates": null,
+"originalText": "七星潭風景區（七星海灣）",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 90,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"七星潭為新月形礫石海灣，適合看海、賞星與騎自行車。"
+]
+}
+]
+},
+{
+"externalId": "liyu-lake",
+"name": "鯉魚潭",
+"category": "自然景點",
+"tags": [
+"湖泊",
+"自行車道",
+"生態體驗"
+],
+"description": "花蓮地區最大的內陸湖泊，提供環湖自行車道、踩船漫遊及賞螢等豐富生態體驗。",
+"location": {
+"address": "花蓮縣壽豐鄉池南村環潭北路100號",
+"coordinates": null,
+"originalText": "鯉魚潭",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 120,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"花蓮地區最大的內陸湖泊，有環湖車道與踩船活動。"
+]
+}
+]
+},
+{
+"externalId": "liushishi-mountain",
+"name": "六十石山",
+"category": "自然景點",
+"tags": [
+"金針花海",
+"縱谷景觀"
+],
+"description": "位於花東縱谷的經典景點，以壯麗的金針花海聞名。",
+"location": {
+"address": "花蓮縣富里鄉竹田村",
+"coordinates": null,
+"originalText": "六十石山 / 瑞穗牧場 / 舞鶴台地",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 120,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"花東縱谷經典景點，以金針花海聞名。"
+]
+}
+]
+},
+{
+"externalId": "ruisui-ranch",
+"name": "瑞穗牧場",
+"category": "休閒農場",
+"tags": [
+"親子",
+"乳製品",
+"牧場"
+],
+"description": "位於花東縱谷的優質牧場，以乳製品與寬廣草原聞名。",
+"location": {
+"address": "花蓮縣瑞穗鄉舞鶴村6鄰157號",
+"coordinates": null,
+"originalText": "瑞穗牧場",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 90,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"花東縱谷著名牧場，提供優質乳製品。"
+]
+}
+]
+},
+{
+"externalId": "wuhe-terrace",
+"name": "舞鶴台地",
+"category": "自然景點",
+"tags": [
+"茶鄉",
+"景觀"
+],
+"description": "以茶鄉與獨特地理環境聞名的花東縱谷台地。",
+"location": {
+"address": "花蓮縣瑞穗鄉舞鶴村",
+"coordinates": null,
+"originalText": "舞鶴台地",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 60,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"花東縱谷舞鶴台地，以優質茶鄉聞名。"
+]
+}
+]
+},
+{
+"externalId": "shitiping",
+"name": "石梯坪",
+"category": "自然景點",
+"tags": [
+"海蝕景觀",
+"潮間帶",
+"海岸線"
+],
+"description": "世界級的階狀海蝕景觀與豐富的潮間帶生態。",
+"location": {
+"address": "花蓮縣豐濱鄉港口村石梯坪52號",
+"coordinates": null,
+"originalText": "石梯坪",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 120,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"世界級的階狀海蝕景觀與潮間帶生態。"
+]
+}
+]
+},
+{
+"externalId": "tropic-of-cancer-marker",
+"name": "北回歸線標碑",
+"category": "地標",
+"tags": [
+"地標",
+"台11線",
+"天文奇觀"
+],
+"description": "坐落於台11線70.5公里處的純白地標，可體驗立竿見日無影的天文奇觀。",
+"location": {
+"address": "花蓮縣瑞穗鄉台11線",
+"coordinates": null,
+"originalText": "北回歸線標碑（靜浦）",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 30,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"位於台11線的純白地標，可體驗天文奇觀。"
+]
+}
+]
+},
+{
+"externalId": "shuilian-niushan-coast",
+"name": "水璉與牛山海岸",
+"category": "自然景點",
+"tags": [
+"原始海岸",
+"部落文化"
+],
+"description": "擁有會唱歌的換膚海灘之稱的原始海岸線，充滿濃厚阿美族部落文化氣息。",
+"location": {
+"address": "花蓮縣壽豐鄉水璉村",
+"coordinates": null,
+"originalText": "水璉與牛山海岸（呼庭）",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 90,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"原始海岸線，具備阿美族部落文化氣息。"
+]
+}
+]
+},
+{
+"externalId": "qiqi-highland",
+"name": "七七高地",
+"category": "自然景點",
+"tags": [
+"觀景台",
+"軍事遺址",
+"全景"
+],
+"description": "位於花蓮溪出海口旁、海拔77公尺的制高點，可鳥瞰360度山海交會全景。",
+"location": {
+"address": "花蓮縣壽豐鄉花蓮溪出海口旁",
+"coordinates": null,
+"originalText": "七七高地",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 60,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"海拔77公尺制高點，可鳥瞰360度山海全景。"
+]
+}
+]
+},
+{
+"externalId": "pacific-park",
+"name": "太平洋公園",
+"category": "公園",
+"tags": [
+"親子",
+"3D地景",
+"極限運動"
+],
+"description": "設有全台最大3D地景彩繪、極限運動場與大片草皮，緊鄰花蓮港與市區。",
+"location": {
+"address": "花蓮縣花蓮市海濱街",
+"coordinates": null,
+"originalText": "太平洋公園（北濱段 / 南濱段）",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 90,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"設有3D地景彩繪與極限運動場，緊鄰花蓮港。"
+]
+}
+]
+},
+{
+"externalId": "meilunshan-park",
+"name": "美崙山公園",
+"category": "公園",
+"tags": [
+"生態",
+"觀景台",
+"市區綠洲"
+],
+"description": "位於市區中央的綠洲，擁有豐富的亞熱帶森林生態與360度觀景平台。",
+"location": {
+"address": "花蓮縣花蓮市美崙山",
+"coordinates": null,
+"originalText": "美崙山公園",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 90,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"市區中央綠洲，擁有豐富生態與觀景平台。"
+]
+}
+]
+},
+{
+"externalId": "dongdamen-night-market",
+"name": "東大門國際觀光夜市",
+"category": "夜市",
+"tags": [
+"美食",
+"小吃",
+"夜市"
+],
+"description": "花蓮市區規模最大的夜市，結合各省美食、原住民風味小吃與遊戲攤位。",
+"location": {
+"address": "花蓮縣花蓮市中山路與重慶路交叉口",
+"coordinates": null,
+"originalText": "東大門國際觀光夜市",
+"verificationStatus": "VERIFIED"
+},
+"recommendedStayMinutes": 120,
+"officialWebsite": null,
+"sources": [
+{
+"id": "qbisat-hualien-list",
+"type": "USER_PROVIDED",
+"title": "Qbisat 花蓮縣景點列表",
+"url": null,
+"retrievedAt": null,
+"highlights": [
+"花蓮市區最大夜市，結合各省美食與原住民小吃。"
+]
+}
+]
+}
+]
+}
