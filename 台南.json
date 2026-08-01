@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "1.0",
+  "kind": "place-record-list",
+  "title": "台南人文活動景點清單",
+  "description": "整理自對話記錄中包含台南孔子廟、赤崁樓、神農街等 10 項具代表性的人文活動與景點。",
+  "publisher": {
+    "name": "使用者與外部 LLM 整理",
+    "url": null
+  },
+  "license": null,
+  "records": [
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "tainan-confucius-temple",
+        "identity": {
+          "name": "臺南孔子廟",
+          "aliases": [
+            "全台首學"
+          ],
+          "category": "歷史古蹟",
+          "tags": [
+            "孔廟",
+            "古蹟",
+            "祭孔大典",
+            "歷史"
+          ],
+          "description": "建於明鄭時期（1665年），為全台最早的孔廟，遵循「左學右廟」傳統格局。每年9月28日舉辦莊嚴的秋祭大典，是體驗傳統儒家文化與祭孔儀式的核心場域。"
+        },
+        "location": {
+          "address": "700台南市中西區南門路2號",
+          "coordinates": {
+            "latitude": 22.9911,
+            "longitude": 120.2039
+          },
+          "originalText": "臺南孔子廟（全台首學）",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "建於明鄭時期（1665年），為全台最早的孔廟"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "chikan-tower",
+        "identity": {
+          "name": "赤崁樓",
+          "aliases": [
+            "普羅民遮城"
+          ],
+          "category": "歷史古蹟",
+          "tags": [
+            "赤崁樓",
+            "古蹟",
+            "荷蘭時期",
+            "府城"
+          ],
+          "description": "荷蘭時期建造的行政與經濟中心，見證數百年政權交替。區內融合了海神廟、文昌閣與蓬壺書院，夜間燈光映襯下更能感受濃厚的府城歷史脈絡。"
+        },
+        "location": {
+          "address": "700台南市中西區民族路二段212號",
+          "coordinates": {
+            "latitude": 22.9972,
+            "longitude": 120.2023
+          },
+          "originalText": "赤崁樓與普羅民遮城周邊",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "荷蘭時期建造的行政與經濟中心，見證數百年政權交替"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "shennong-street",
+        "identity": {
+          "name": "神農街",
+          "aliases": [
+            "五條港古街"
+          ],
+          "category": "老街文創",
+          "tags": [
+            "神農街",
+            "文青",
+            "老屋",
+            "五條港"
+          ],
+          "description": "昔日五條港的重要河港商圈，現今保留了大量清代老屋。街道匯聚了獨立手作工坊、文創小店與街頭藝術，是新舊文化交融最具代表性的人文市集街道。"
+        },
+        "location": {
+          "address": "700台南市中西區神農街",
+          "coordinates": {
+            "latitude": 22.9984,
+            "longitude": 120.1973
+          },
+          "originalText": "神農街（文青藝術街區）",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "昔日五條港的重要河港商圈，現今保留了大量清代老屋"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "tainan-art-museum",
+        "identity": {
+          "name": "臺南市美術館",
+          "aliases": [
+            "南美館",
+            "臺南市美術館1館",
+            "臺南市美術館2館"
+          ],
+          "category": "藝文展館",
+          "tags": [
+            "美術館",
+            "當代藝術",
+            "建築",
+            "展覽"
+          ],
+          "description": "1館由原台南市警察局古蹟修復轉型，融合古典與當代；2館由日本坂茂建築師設計，以碎形屋頂構成的純白當代建築，是展現府城當代美學與藝文展覽的重要地標。"
+        },
+        "location": {
+          "address": "700台南市中西區忠義路二段1號",
+          "coordinates": {
+            "latitude": 22.9897,
+            "longitude": 120.2031
+          },
+          "originalText": "臺南市美術館（1館及2館）",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "1館由原台南市警察局古蹟修復轉型，2館由日本坂茂建築師設計"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "blueprint-culture-and-creative-park",
+        "identity": {
+          "name": "藍晒圖文創園區",
+          "aliases": [
+            "藍晒圖"
+          ],
+          "category": "文創園區",
+          "tags": [
+            "藍晒圖",
+            "文創",
+            "裝置藝術",
+            "聚落"
+          ],
+          "description": "由舊司法宿舍群改建而成的聚落，保留老樹與老屋紋理，並以巨型3D立體藍晒圖裝置藝術聞名。經常舉辦手作課程、微型展覽與在地文創市集。"
+        },
+        "location": {
+          "address": "702台南市南區西門路一段689巷",
+          "coordinates": {
+            "latitude": 22.9864,
+            "longitude": 120.1983
+          },
+          "originalText": "藍晒圖文創園區",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "由舊司法宿舍群改建而成的聚落，以巨型3D立體藍晒圖裝置藝術聞名"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "hayashi-department-store",
+        "identity": {
+          "name": "林百貨",
+          "aliases": [
+            "林百貨公司"
+          ],
+          "category": "歷史建築",
+          "tags": [
+            "林百貨",
+            "日治時期",
+            "百貨公司",
+            "伴手禮"
+          ],
+          "description": "建於日治時期（1932年），是台灣第二家、台南第一家百貨公司。建築保留了當年流亡的歷史痕跡，現今轉型為在地文創、工藝美學與台灣特色伴手禮的匯聚地。"
+        },
+        "location": {
+          "address": "700台南市中西區忠義路二段63號",
+          "coordinates": {
+            "latitude": 22.9915,
+            "longitude": 120.2023
+          },
+          "originalText": "林百貨（Goji Hakkō）",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "建於日治時期（1932年），是台灣第二家、台南第一家百貨公司"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "tainan-district-court",
+        "identity": {
+          "name": "國定古蹟臺南地方法院",
+          "aliases": [
+            "司法博物館",
+            "原臺南地方法院"
+          ],
+          "category": "歷史古蹟",
+          "tags": [
+            "地方法院",
+            "司法博物館",
+            "巴洛克",
+            "古蹟"
+          ],
+          "description": "日治時期洋風古典建築代表作，擁有精美的巴洛克圓頂與大廳列柱。館內展示豐富的台灣司法歷史文物，並常舉辦寓教於樂的人文法治特展。"
+        },
+        "location": {
+          "address": "700台南市中西區府前路一段307號",
+          "coordinates": {
+            "latitude": 22.9892,
+            "longitude": 120.2008
+          },
+          "originalText": "國定古蹟臺南地方法院（司法博物館）",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "日治時期洋風古典建築代表作，擁有精美的巴洛克圓頂與大廳列柱"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "jingzaijiao-tile-salt-fields",
+        "identity": {
+          "name": "井仔腳瓦盤鹽田",
+          "aliases": [
+            "井仔腳鹽田"
+          ],
+          "category": "產業文化",
+          "tags": [
+            "鹽田",
+            "北門",
+            "曬鹽",
+            "夕陽"
+          ],
+          "description": "北門現存最古老的瓦盤鹽田遺址，延續了近兩百年的曬鹽產業文化。遊客可在此體驗傳統堆鹽、挑鹽的鹽業勞動文化，並欣賞夕陽餘暉下的鹽田人文景致。"
+        },
+        "location": {
+          "address": "727台南市北門區吉貝耍棧64號",
+          "coordinates": {
+            "latitude": 23.2676,
+            "longitude": 120.1132
+          },
+          "originalText": "井仔腳瓦盤鹽田",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "北門現存最古老的瓦盤鹽田遺址，延續了近兩百年的曬鹽產業文化"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "jingliao-old-street",
+        "identity": {
+          "name": "菁寮老街",
+          "aliases": [
+            "無米樂故鄉",
+            "後壁菁寮老街"
+          ],
+          "category": "農村文化",
+          "tags": [
+            "菁寮老街",
+            "無米樂",
+            "後壁",
+            "農村"
+          ],
+          "description": "位於後壁區的傳統農村聚落，因紀錄片《無米樂》而聞名。保留了古早的嫁妝老街、傳統柑仔店、茄芷袋手作工坊，是體驗台灣早期農耕文化與聚落生活的好去處。"
+        },
+        "location": {
+          "address": "731台南市後壁區菁寮",
+          "coordinates": {
+            "latitude": 23.3556,
+            "longitude": 120.3341
+          },
+          "originalText": "菁寮老街（無米樂故鄉）",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "位於後壁區的傳統農村聚落，因紀錄片《無米樂》而聞名"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    },
+    {
+      "schemaVersion": 1,
+      "kind": "place-record",
+      "profile": {
+        "schemaVersion": 1,
+        "externalId": "ten-drum-culture-village",
+        "identity": {
+          "name": "十鼓文創園區",
+          "aliases": [
+            "十鼓仁糖文創園區"
+          ],
+          "category": "藝文園區",
+          "tags": [
+            "十鼓",
+            "糖廠",
+            "擊樂",
+            "極限運動"
+          ],
+          "description": "將百年歷史的舊車路糖廠改建為結合擊樂表演、工業遺產保存與極限運動的藝文園區。除了保存糖廠製糖工業文化外，也能欣賞世界級的本土擊樂藝術展演。"
+        },
+        "location": {
+          "address": "717台南市仁德區文華路二段326號",
+          "coordinates": {
+            "latitude": 22.9298,
+            "longitude": 120.2289
+          },
+          "originalText": "十鼓文創園區",
+          "precision": "PLACE",
+          "lookupStatus": "RESOLVED",
+          "verificationStatus": "UNVERIFIED",
+          "sourceIds": [
+            "src-chat"
+          ]
+        },
+        "contact": {
+          "officialWebsite": null,
+          "phone": null
+        },
+        "visit": {
+          "openingHours": null,
+          "admission": null,
+          "recommendedStayMinutes": null,
+          "highlights": [],
+          "cautions": []
+        },
+        "facts": [],
+        "experienceInsights": [],
+        "sources": [
+          {
+            "id": "src-chat",
+            "type": "USER_PROVIDED",
+            "title": "對話記錄",
+            "url": null,
+            "publishedAt": null,
+            "retrievedAt": null,
+            "highlights": [
+              "將百年歷史的舊車路糖廠改建為結合擊樂表演與工業遺產的園區"
+            ]
+          }
+        ]
+      },
+      "identifiers": []
+    }
+  ]
+}
