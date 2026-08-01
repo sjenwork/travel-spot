@@ -32,7 +32,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat", "src-web"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -58,13 +58,13 @@
             "highlights": ["建於明鄭時期（1665年），為全台最早的孔廟"]
           },
           {
-            "id": "src-web",
-            "type": "GOVERNMENT",
-            "title": "臺南孔子廟 - 維基百科",
-            "url": "https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8D%97%E5%AD%94%E5%AD%90%E5%BB%9F",
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.990523,120.204267",
             "publishedAt": null,
-            "retrievedAt": "2026-08-01T09:13:00Z",
-            "highlights": ["座標 22.990523°N 120.204267°E"]
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：700台南市中西區南門路2號", "座標確認"]
           }
         ]
       },
@@ -93,7 +93,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -117,6 +117,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["荷蘭時期建造的行政與經濟中心，見證數百年政權交替"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9972,120.2023",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：700台南市中西區民族路二段212號", "座標確認"]
           }
         ]
       },
@@ -145,7 +154,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -169,6 +178,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["昔日五條港的重要河港商圈，現今保留了大量清代老屋"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9984,120.1973",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：700台南市中西區神農街", "座標確認"]
           }
         ]
       },
@@ -197,7 +215,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -221,6 +239,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["1館由原台南市警察局古蹟修復轉型，2館由日本坂茂建築師設計"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9897,120.2031",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：700台南市中西區忠義路二段1號", "座標確認"]
           }
         ]
       },
@@ -249,7 +276,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -273,6 +300,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["由舊司法宿舍群改建而成的聚落，以巨型3D立體藍晒圖裝置藝術聞名"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9864,120.1983",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：702台南市南區西門路一段689巷", "座標確認"]
           }
         ]
       },
@@ -301,7 +337,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -325,6 +361,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["建於日治時期（1932年），是台灣第二家、台南第一家百貨公司"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9915,120.2023",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：700台南市中西區忠義路二段63號", "座標確認"]
           }
         ]
       },
@@ -353,7 +398,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -377,6 +422,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["日治時期洋風古典建築代表作，擁有精美的巴洛克圓頂與大廳列柱"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9892,120.2008",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：700台南市中西區府前路一段307號", "座標確認"]
           }
         ]
       },
@@ -405,7 +459,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -429,6 +483,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["北門現存最古老的瓦盤鹽田遺址，延續了近兩百年的曬鹽產業文化"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=23.2676,120.1132",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：727台南市北門區吉貝耍棧64號", "座標確認"]
           }
         ]
       },
@@ -457,7 +520,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -481,6 +544,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["位於後壁區的傳統農村聚落，因紀錄片《無米樂》而聞名"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=23.3556,120.3341",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：731台南市後壁區菁寮", "座標確認"]
           }
         ]
       },
@@ -509,7 +581,7 @@
           "precision": "PLACE",
           "lookupStatus": "RESOLVED",
           "verificationStatus": "VERIFIED",
-          "sourceIds": ["src-chat"]
+          "sourceIds": ["src-map"]
         },
         "contact": {
           "officialWebsite": null,
@@ -533,6 +605,15 @@
             "publishedAt": null,
             "retrievedAt": null,
             "highlights": ["將百年歷史的舊車路糖廠改建為結合擊樂表演與工業遺產的園區"]
+          },
+          {
+            "id": "src-map",
+            "type": "MAP",
+            "title": "Google Maps 查證資料",
+            "url": "https://maps.google.com/?q=22.9298,120.2289",
+            "publishedAt": null,
+            "retrievedAt": "2026-08-01T09:16:07Z",
+            "highlights": ["地址：717台南市仁德區文華路二段326號", "座標確認"]
           }
         ]
       },
@@ -540,4 +621,3 @@
     }
   ]
 }
-
