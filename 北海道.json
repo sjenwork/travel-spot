@@ -1,0 +1,1140 @@
+{
+"schemaVersion": "1.0",
+"kind": "place-record-list",
+"title": "北海道自駕 10 天行程景點清單",
+"description": "根據使用者討論之北海道自駕行程所整理的大景點清單，涵蓋道央、道東、道南及道北等路線選擇。",
+"publisher": {
+"name": "使用者與外部 LLM 整理",
+"url": null
+},
+"license": null,
+"records": [
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "new-chitose-airport",
+"identity": {
+"name": "新千歲機場",
+"aliases": ["新千歳空港"],
+"category": "交通樞紐",
+"tags": ["機場", "進出點", "租車"],
+"description": "北海道主要的國際與國內航線機場，為自駕行程的起點與終點。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "新千歲機場",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["北海道自駕進出門戶"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["新千歲機場進出"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "sapporo",
+"identity": {
+"name": "札幌",
+"aliases": ["札幌市"],
+"category": "城市",
+"tags": ["市區", "購物", "美食"],
+"description": "北海道最大城市，擁有大通公園、北海道神宮與繁華的市區商圈。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "札幌",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["大通公園", "北海道神宮"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["札幌"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "asahiyama-zoo",
+"identity": {
+"name": "旭山動物園",
+"aliases": ["旭川旭山動物園"],
+"category": "景點",
+"tags": ["動物園", "親子", "旭川"],
+"description": "以獨特的展現方式聞名的動物園，可近距離觀賞企鵝與極地動物。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "旭山動物園",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["看企鵝與極地動物"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["旭山動物園"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "biei-patchwork-road",
+"identity": {
+"name": "美瑛拼布之路／四季彩之丘",
+"aliases": ["美瑛", "四季彩之丘"],
+"category": "自然景觀",
+"tags": ["丘陵", "花田", "美瑛"],
+"description": "擁有起伏優美的丘陵地貌與繽紛花海景觀的知名拍照勝地。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "美瑛拼布之路／四季彩之丘",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["拼布之路風景", "四季彩之丘"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["美瑛拼布之路／四季彩之丘"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "furano-blue-pond",
+"identity": {
+"name": "富良野（富田農場／青池）",
+"aliases": ["富良野", "富田農場", "青池"],
+"category": "自然景觀",
+"tags": ["花田", "青池", "富良野"],
+"description": "以壯麗花田與神祕湛藍青池聞名的道央熱門景點。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "富良野（富田農場／青池）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["富田農場花田", "青池"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["富良野（富田農場／青池）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "soounkyo",
+"identity": {
+"name": "層雲峽（銀河・流星瀑布）",
+"aliases": ["層雲峽", "銀河瀑布", "流星瀑布"],
+"category": "自然景觀",
+"tags": ["峽谷", "瀑布", "層雲峽"],
+"description": "壯麗的峽谷地形，並擁有著名的銀河與流星雙瀑景觀。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "層雲峽（銀河・流星瀑布）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["銀河瀑布", "流星瀑布"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["層雲峽（銀河・流星瀑布）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "shiretoko-goko",
+"identity": {
+"name": "知床五湖",
+"aliases": ["知床"],
+"category": "自然景觀",
+"tags": ["世界遺產", "健行", "知床"],
+"description": "位於知床半島的世界自然遺產，擁有原始森林與高架木道漫步體驗。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "知床五湖",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["漫步木道欣賞原始湖景"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["知床五湖"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "akan-lake",
+"identity": {
+"name": "阿寒湖（愛努村／溫泉）",
+"aliases": ["阿寒湖", "愛努村"],
+"category": "溫泉景點",
+"tags": ["溫泉", "原住民文化", "道東"],
+"description": "以綠球藻與愛努族文化村聞名的道東溫泉勝地。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "阿寒湖（愛努村／溫泉）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["愛努村文化體驗", "溫泉休閒"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["阿寒湖（愛努村／溫泉）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "kushiro-marshland",
+"identity": {
+"name": "釧路濕原展望台",
+"aliases": ["釧路濕原"],
+"category": "自然景觀",
+"tags": ["濕原", "展望台", "釧路"],
+"description": "日本最大的濕原，可登高眺望廣闊無垠的濕地生態與自然風光。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "釧路濕原展望台",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["眺望廣闊濕原景觀"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["釧路濕原展望台"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "tokachigawa",
+"identity": {
+"name": "十勝川（十勝之丘展望台／白鳥之里）",
+"aliases": ["十勝川", "十勝之丘展望台", "白鳥之里"],
+"category": "溫泉景點",
+"tags": ["植物性溫泉", "十勝", "展望台"],
+"description": "以珍貴的植物性之「美人湯」溫泉與開闊田園風光聞名。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "十勝川（十勝之丘展望台／白鳥之里）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["十勝之丘展望台", "白鳥之里"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["十勝川（十勝之丘展望台／白鳥之里）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "noboribetsu-jigokudani",
+"identity": {
+"name": "登別地獄谷",
+"aliases": ["登別"],
+"category": "自然景觀",
+"tags": ["火山遺跡", "溫泉", "登別"],
+"description": "充滿火山冒煙景觀與豐富溫泉源頭的壯麗地景。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "登別地獄谷",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["地狱谷火山地形"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["登別地獄谷"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "toya-lake",
+"identity": {
+"name": "洞爺湖展望台／昭和新山",
+"aliases": ["洞爺湖", "昭和新山"],
+"category": "自然景觀",
+"tags": ["湖泊", "火山", "洞爺湖"],
+"description": "風景秀麗的火山口湖，並可搭配一旁的昭和新山火山地景觀賞。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "洞爺湖展望台／昭和新山",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["洞爺湖展望台視野", "昭和新山"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["洞爺湖展望台／昭和新山"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "onuma-quasi-national-park",
+"identity": {
+"name": "大沼國定公園",
+"aliases": ["大沼公園"],
+"category": "自然景觀",
+"tags": ["湖泊", "國定公園", "道南"],
+"description": "由大小島嶼與湖泊組成的風景區，充滿秀麗的道南自然風光。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "大沼國定公園",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["湖光山色散步"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["大沼國定公園"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "hakodate-mountain",
+"identity": {
+"name": "函館山（百萬夜景）",
+"aliases": ["函館山夜景"],
+"category": "景點",
+"tags": ["夜景", "函館", "地標"],
+"description": "以雙弧形海岸線夜景聞名，名列世界三大夜景之一。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "函館山（百萬夜景）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["世界級百萬夜景"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["函館山（百萬夜景）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "hakodate-morning-market",
+"identity": {
+"name": "函館朝市",
+"aliases": ["函館朝市"],
+"category": "美食購物",
+"tags": ["海鮮", "市場", "函館"],
+"description": "品嚐新鮮海鮮蓋飯與體驗當地早市熱鬧氣氛的好去處。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "函館朝市",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["新鮮海鮮早餐"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["函館朝市"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "goryokaku-tower",
+"identity": {
+"name": "五稜郭塔",
+"aliases": ["五稜郭"],
+"category": "歷史景點",
+"tags": ["歷史", "塔樓", "函館"],
+"description": "星形要塞遺跡旁的高塔，可登高俯瞰壯觀的五角形城郭全景。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "五稜郭塔",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["俯瞰星形五稜郭全景"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["五稜郭塔"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "niseko",
+"identity": {
+"name": "二世谷（羊蹄山麓風景）",
+"aliases": ["二世谷", "羊蹄山"],
+"category": "自然景觀",
+"tags": ["山景", "羊蹄山", "二世谷"],
+"description": "以壯麗的羊蹄山麓田園與度假風景聞名的戶外勝地。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "二世谷（羊蹄山麓風景）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["羊蹄山麓風景"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["二世谷（羊蹄山麓風景）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "kamui-cape",
+"identity": {
+"name": "神威岬／積丹半島",
+"aliases": ["神威岬", "積丹半島"],
+"category": "自然景觀",
+"tags": ["海景", "海岸線", "積丹"],
+"description": "擁有極致「積丹藍」海景與壯麗懸崖峭壁的半島岬角。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "神威岬／積丹半島",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["積丹藍壯麗海景"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["神威岬／積丹半島"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "otaru-canal",
+"identity": {
+"name": "小樽運河／堺町通商店街",
+"aliases": ["小樽運河", "堺町通商店街"],
+"category": "景點",
+"tags": ["運河", "老街", "小樽"],
+"description": "充滿浪漫復古風情的運河倉庫與好逛好買的堺町通商店街。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "小樽運河／堺町通商店街",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["小樽運河散步", "堺町通商店街購物"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["小樽運河／堺町通商店街"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "rumoi-golden-cape",
+"identity": {
+"name": "留萌黃金岬",
+"aliases": ["黃金岬"],
+"category": "自然景觀",
+"tags": ["夕陽", "海岸", "留萌"],
+"description": "以美麗夕陽海岸線景致聞名的道北沿海景點。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "留萌黃金岬",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["黃金岬夕陽美景"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["留萌黃金岬"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "soya-cape",
+"identity": {
+"name": "宗谷岬（日本最北端地標）",
+"aliases": ["宗谷岬"],
+"category": "景點",
+"tags": ["最北端", "地標", "稚內"],
+"description": "象徵日本最北端的岬角地標，充滿開闊的海疆風情。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "宗谷岬（日本最北端地標）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["日本最北端紀念碑"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["宗谷岬（日本最北端地標）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "sarobetsu-plain",
+"identity": {
+"name": "サロベツ原野（原野風光）",
+"aliases": ["薩羅別原野", "サロベツ原野"],
+"category": "自然景觀",
+"tags": ["原野", "生態", "道北"],
+"description": "廣闊無垠的泥炭地原野景觀，展現獨特的道北自然風貌。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "サロベツ原野（原野風光）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["廣闊原野風光"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["サロベツ原野（原野風光）"]
+}
+]
+},
+"identifiers": []
+},
+{
+"schemaVersion": 1,
+"kind": "place-record",
+"profile": {
+"schemaVersion": 1,
+"externalId": "jozankei",
+"identity": {
+"name": "定山溪溫泉（峽谷美景）",
+"aliases": ["定山溪"],
+"category": "溫泉景點",
+"tags": ["溫泉", "峽谷", "札幌周邊"],
+"description": "距離札幌不遠的知名溫泉峽谷，以四季美景與溪谷風光著稱。"
+},
+"location": {
+"address": null,
+"coordinates": null,
+"originalText": "定山溪溫泉（峽谷美景）",
+"precision": null,
+"lookupStatus": "NO_SEARCH_CAPABILITY",
+"verificationStatus": "UNVERIFIED",
+"sourceIds": ["dialogue-src"]
+},
+"contact": {
+"officialWebsite": null,
+"phone": null
+},
+"visit": {
+"openingHours": null,
+"admission": null,
+"recommendedStayMinutes": null,
+"highlights": ["峽谷美景與溫泉"],
+"cautions": []
+},
+"facts": [],
+"experienceInsights": [],
+"sources": [
+{
+"id": "dialogue-src",
+"type": "USER_PROVIDED",
+"title": "使用者對話紀錄",
+"url": null,
+"publishedAt": null,
+"retrievedAt": null,
+"highlights": ["定山溪溫泉（峽谷美景）"]
+}
+]
+},
+"identifiers": []
+}
+]
+}
